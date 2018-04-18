@@ -14,4 +14,4 @@ Ue4 elements created:
   
 -------------------
 WIP
-- I'm having issues to see that dyanmic elements 
+- I'm having issues to see that dyanmic elements. Open question at Ue4 Bp forum [https://forums.unrealengine.com/development-discussion/blueprint-visual-scripting/1462689-issues-adding-dynamically-some-button-images-into-my-ui]
