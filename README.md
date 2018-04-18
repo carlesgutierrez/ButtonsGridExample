@@ -3,7 +3,7 @@ An example to learn how to add dynamically button images to a grid
 
 Here I'm creating some random button images and by pressing them showing some internal information about them. 
 
-I've created: 
+Ue4 elements created: 
 - HUD
 - PAWN
 - GameMode 
@@ -14,4 +14,4 @@ I've created:
   
 -------------------
 WIP
-- I'm having issues to see that dyanmic elements at screeen.
+- I'm having issues to see that dyanmic elements 
