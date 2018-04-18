@@ -1,5 +1,5 @@
 # ButtonsGridExample
-An example to learn how to add dynamically button images to a grid
+An example to learn how to dynamically add some button images into a grid
 
 Here I'm creating some random button images and by pressing them showing some internal information about them. 
 
