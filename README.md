@@ -8,9 +8,9 @@ I've created:
 - PAWN
 - GameMode 
 - Some Widget BP classes: 
-  - HUD_Start ( created from myHUD )
+  - HUD_Start ( a widget BP class created from myHUD containing --> UI_ButtonsGridPanel )
   - UI_Button ( a canvas with a button with image inherited )
-  - UI_ButtonsGridPanel ( a canvas with a grid panel to insert our dynamic items, alias slots )
+  - UI_ButtonsGridPanel ( a canvas with a grid panel to insert our dynamic items (UI_Button elements into UniformGridPanel)
   
 -------------------
 WIP
